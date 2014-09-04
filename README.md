@@ -19,7 +19,7 @@ After that we need to import package named : **com.geekonjava.fileupload.FileUpl
 
 GOJLibrary give you Two method one has three parameters :
 
-	**UploadFile(String imagepath,ArrayList imagename,HttpRequest request)**
+	UploadFile(String imagepath,ArrayList imagename,HttpRequest request)
 	
   **imagepath**- this is a field for set the uploading path.
   
@@ -29,7 +29,7 @@ GOJLibrary give you Two method one has three parameters :
   
 and other has four parameters :
 
-	**UploadFile(String imagepath,ArrayList dataname,ArrayList imagename,HttpRequest request)**
+	UploadFile(String imagepath,ArrayList dataname,ArrayList imagename,HttpRequest request)
 	
   **imagepath**- this is a field for set the uploading path.
   
