@@ -17,7 +17,7 @@ First of all five libraries you need to be import:
   
 After that we need to import package named : **com.geekonjava.fileupload.FileUploading**
 
-GOJLibrary give you Two method one has three parameter :
+GOJLibrary give you Two method one has three parameters :
 
 	**UploadFile(String imagepath,ArrayList imagename,HttpRequest request)**
 	
@@ -27,18 +27,19 @@ GOJLibrary give you Two method one has three parameter :
   
   **request**-its not for programmer and not be changed.
   
-and other has four parameter :
+and other has four parameters :
 
 	**UploadFile(String imagepath,ArrayList dataname,ArrayList imagename,HttpRequest request)**
 	
-	**imagepath**- this is a field for set the uploading path.
-	
-	**dataname**-this is a field for all text field name by using ArrayList.
-	
+  **imagepath**- this is a field for set the uploading path.
+  
+  **dataname**- this is a field for all textfield name by using ArrayList.
+  
   **imagename**-this is a field for all images name by using ArrayList.
   
   **request**-its not for programmer and not be changed.
   
+and other has four parameter :
   
   
 [For more details](http://geekonjava.blogspot.com/2014/09/how-to-upload-file-in-java-using.html)
